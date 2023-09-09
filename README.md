@@ -14,3 +14,5 @@ Bu proje, aşağıdaki özelliklere sahip bir Medium arayüzü klonu oluşturmay
 - Ana sayfadaki makale görüntülemesi
 - Öne çıkan hikayeler bölümü
 - Yazar profillerini gösterme
+
+![Proje Mobil Görüntüsü](phone.png)
